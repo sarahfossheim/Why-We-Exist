@@ -134,7 +134,7 @@ Core members:
 
 <br>
 
-<h3><a aria-label="Link to the section: Development Subcommittee" name="subcommittees-development">#</a> Advocacy Subcommittee</h3>
+<h3><a aria-label="Link to the section: Development Subcommittee" name="subcommittees-development">#</a> Development Subcommittee</h3>
 
 View the Development Subcommittee roadmap, here.
 
